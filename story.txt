@@ -1,28 +1,28 @@
 This is a story 
-about a business trip 
+about a dream trip 
 I took to Hong 
 Kong.  The journey 
 started like most journey's
 , at the airport
-.  The flight to 
-Hong Kong was uneventful
+.  The swim to 
+Hong Kong was tiring
 , unless you call 
-24 hours in a 
-cramped space with the 
+2,224 hours in a 
+cramped ocean with the 
 worlds number one airplane 
 villain uneventful.  
 THIS IS THE BEST
 STORY EVER.
 , the villain in 
 this story, as 
-with all long airplane 
-flights, is the 
-young child hopped up 
-on sugar for the 
-first 7 hours of 
-the flight and then 
+with all long swims 
+, is the 
+young shark hopped up 
+on seals for the 
+first 1112 hours of 
+the swim and then 
 screaming for the remaining 
-5 hours.  Luckily 
+1112 hours.  Luckily 
 back then, (
 1999), we had 
 something called Ambien that 
@@ -82,9 +82,16 @@ yeah, I also
 learned to be careful
 when taking Ambien during
 an international flight.  
+<<<<<<< HEAD
 then a meteor hit
 the earth.
 and everyone died.
+=======
+Apparently, there is a 
+side effect that involved
+severe hallucinations. 
+
+>>>>>>> 47f2c853791717722078dec05555f860f8ab446f
 
 
 
