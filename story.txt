@@ -7,15 +7,9 @@ started like most journey's
 .  The flight to 
 Hong Kong was uneventful
 , unless you call 
-<<<<<<< HEAD
-2,224 hours in a 
-cramped ocean with the 
-worlds number one ocean 
-=======
 24 hours in a 
 cramped space with the 
 worlds number one airplane 
->>>>>>> 4043f5026d0e13272579f20a1b7bdcb41c50cee5
 villain uneventful.  
 THIS IS THE BEST
 STORY EVER! The villain in 
@@ -32,21 +26,6 @@ back then, (
 1999), we had 
 something called Ambien that 
 allowed for a peaceful 
-<<<<<<< HEAD
-and restful swim over, aside from 
-having to kill a 
-shark with my bare 
-hands.  Now if you
-'ve never been 
-to Hong Kong, 
-it's fantastic
-. There are fire
--breathing dragons and
-beetles the size of
-buildings. The sumo wrestlers 
-at the airport guide 
-you through customs, get 
-=======
 and restful flight over
 .  Now if you
 've never been 
@@ -54,7 +33,6 @@ to Hong Kong,
 it's fantastic
 .  They guide you 
 through customs, get 
->>>>>>> 4043f5026d0e13272579f20a1b7bdcb41c50cee5
 you in the appropriate 
 transport and off to 
 your hotel.  So 
@@ -79,19 +57,11 @@ desk and asked for
 assistance. When I 
 rang the bell for 
 assistance, three ninjas 
-<<<<<<< HEAD
-appeared. They demanded pizza.
-I had to bake a pie loaded 
-with meats and veggies to tire them 
-out so that I could fight them off, 
-all of this before the hotel receptionist
-=======
 appeared. they demanded pizza.
 hungry ninjas are the worst.
 I had 
 to fight them off 
 before the hotel receptionist
->>>>>>> 4043f5026d0e13272579f20a1b7bdcb41c50cee5
 would help me. After
 somehow surviving the battle 
 of my life,
